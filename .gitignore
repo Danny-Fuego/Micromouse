@@ -1,0 +1,30 @@
+# KiCad backup files
+*.kicad_prl
+*.kicad_sch-bak
+*_autosave.kicad_sch
+*_autosave.kicad_pcb
+*fallback.kicad_sch
+*fallback.kicad_pcb
+
+# KiCad user settings
+fp-info-cache
+sym-lib-table
+fp-lib-table
+
+# KiCad temporary files
+*.tmp
+*.bak
+*.bck
+*.lck
+*.lock
+
+# Generated netlists, BOM, fabrication outputs — optional
+*.xml
+*.csv
+*.pdf
+*.gbr
+*.drill
+*.pos
+
+# MacOS junk
+.DS_Store
