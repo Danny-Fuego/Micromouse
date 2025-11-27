@@ -629,6 +629,10 @@
     [
       "119c94aa-05b4-48e4-95c7-77778fe8475b",
       "Microcontroller"
+    ],
+    [
+      "b283da78-9de9-4d88-8216-d6b20b6b0619",
+      "Gyro"
     ]
   ],
   "text_variables": {}
